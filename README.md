@@ -36,4 +36,4 @@ Este repositorio consta de diversos archivos, así cada archivo es un tema o con
 
 ### Nivel Intermedio:
 
-00. [Fecha]
+00. [Fecha](https://github.com/manuel101284/AprendizajePython/blob/main/Intermedio/I_00_Dates.py)
