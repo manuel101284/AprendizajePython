@@ -6,11 +6,17 @@ Este repositorio es para aprender Python, desde sus fundamentos.
 Para esto hemos seguido el siguiente curso:
 
 ### Link:
+* Principiante:
 https://www.youtube.com/watch?v=Kp4Mvapo5kc&t=14250s
+
+* Intermedio:
+https://www.youtube.com/watch?v=TbcEqkabAWU&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=3
 
 
 ## Metodología
 Este repositorio consta de diversos archivos, así cada archivo es un tema o concepto.
+
+### NIvel Principiante:
  
 00. [Saludo e introducción](https://github.com/manuel101284/AprendizajePython/blob/main/00_saludo.py)
 01. [Variables](https://github.com/manuel101284/AprendizajePython/blob/main/01_variables.py)
@@ -26,3 +32,8 @@ Este repositorio consta de diversos archivos, así cada archivo es un tema o con
 11. [Clases](https://github.com/manuel101284/AprendizajePython/blob/main/11_clases.py)
 12. [Excepciones](https://github.com/manuel101284/AprendizajePython/blob/main/12_excepciones.py)
 13. [Modulos](https://github.com/manuel101284/AprendizajePython/blob/main/13_modulos.py)
+
+
+### Nivel Intermedio:
+
+00. [Fecha]
