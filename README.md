@@ -24,4 +24,5 @@ Este repositorio consta de diversos archivos, así cada archivo es un tema o con
 09. [Bucles](https://github.com/manuel101284/AprendizajePython/blob/main/09_bucles.py)
 10. [Funciones](https://github.com/manuel101284/AprendizajePython/blob/main/10_funciones.py)
 11. [Clases](https://github.com/manuel101284/AprendizajePython/blob/main/11_clases.py)
-12. [Excepciones](https://github.com/manuel101284/AprendizajePython/blob/main/12_Excepciones.py)
+12. [Excepciones](https://github.com/manuel101284/AprendizajePython/blob/main/12_excepciones.py)
+13. [Modulos](https://github.com/manuel101284/AprendizajePython/blob/main/13_modulos.py)
