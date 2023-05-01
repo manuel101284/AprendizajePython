@@ -40,6 +40,7 @@ Este repositorio consta de diversos archivos, así cada archivo es un tema o con
 01. [Listas por Comprensión](https://github.com/manuel101284/AprendizajePython/blob/main/Intermedio/I_01_List_comprehension.py)
 02. [Lambdas](https://github.com/manuel101284/AprendizajePython/blob/main/Intermedio/I_02_Lambdas.py)
 03. [Funciones de orden superior](https://github.com/manuel101284/AprendizajePython/blob/main/Intermedio/I_03_Higher_order_functions.py)
+04. [Tipos de error](https://github.com/manuel101284/AprendizajePython/blob/main/Intermedio/I_04_Error_types.py)
 
 ###
 * Autor: manuel101284
