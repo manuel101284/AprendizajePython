@@ -1,11 +1,15 @@
-# AprendizajePython
+# Aprendizaje Python
 
 ## Bienvenido
 
-Este repositorio es para aprender Python, desde sus fundamentos.
-Para esto hemos seguido el siguiente curso:
+Este repositorio está hecho para aprender Python, desde sus fundamentos e ir avanzando hasta temas más avanzados.
 
-### Link:
+Para esto hemos seguido los siguientes tutoriales y recursos:
+
+### Link 30 días de Python:
+* https://github.com/Asabeneh/30-Days-Of-Python
+
+### Links MoureDev:
 * Principiante:
 https://www.youtube.com/watch?v=Kp4Mvapo5kc&t=14250s
 
@@ -14,7 +18,7 @@ https://www.youtube.com/watch?v=TbcEqkabAWU&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvX
 
 
 ## Metodología
-Este repositorio consta de diversos archivos, así cada archivo es un tema o concepto.
+Este repositorio consta de diversos archivos, así cada archivo es un tema o concepto. En su mayoría tiene varios ejemplos y comnetarios acerca del tema que se está estudiando en ese momento.
 
 ### NIvel Principiante:
  
@@ -42,6 +46,8 @@ Este repositorio consta de diversos archivos, así cada archivo es un tema o con
 03. [Funciones de orden superior](https://github.com/manuel101284/AprendizajePython/blob/main/Intermedio/I_03_Higher_order_functions.py)
 04. [Tipos de error](https://github.com/manuel101284/AprendizajePython/blob/main/Intermedio/I_04_Error_types.py)
 05. [Manejo de ficheros](https://github.com/manuel101284/AprendizajePython/blob/main/Intermedio/I_05_File_handling.py)
+06. [Expresiones Regulares](https://github.com/manuel101284/AprendizajePython/blob/main/Intermedio/I_06_Regular_expressions.py)
+
 
 ###
 * Autor: manuel101284
