@@ -16,6 +16,9 @@ https://www.youtube.com/watch?v=Kp4Mvapo5kc&t=14250s
 * Intermedio:
 https://www.youtube.com/watch?v=TbcEqkabAWU&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=3
 
+* Backend con Python y FastAPI:
+https://www.youtube.com/watch?v=_y9qQZXE24A&t=836s
+
 
 ## Metodología
 Este repositorio consta de diversos archivos, así cada archivo es un tema o concepto. En su mayoría tiene varios ejemplos y comnetarios acerca del tema que se está estudiando en ese momento.
@@ -50,5 +53,11 @@ Este repositorio consta de diversos archivos, así cada archivo es un tema o con
 07. [Manejo de paquetes de Python](https://github.com/manuel101284/AprendizajePython/blob/main/Intermedio/I_07_Python_package_manager.py)
 
 
-###
+### Backend con Python desde cero y FastAPI
+
+00. [Sugerencias de codificado](https://github.com/manuel101284/AprendizajePython/blob/main/Backend/type_hints.py)
+
+
+
+##
 * Autor: manuel101284
