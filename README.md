@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=_y9qQZXE24A&t=836s
 ## Metodología
 Este repositorio consta de diversos archivos, así cada archivo es un tema o concepto. En su mayoría tiene varios ejemplos y comnetarios acerca del tema que se está estudiando en ese momento.
 
-### NIvel Principiante:
+### Nivel Principiante:
  
 00. [Saludo e introducción](https://github.com/manuel101284/AprendizajePython/blob/main/00_saludo.py)
 01. [Variables](https://github.com/manuel101284/AprendizajePython/blob/main/01_variables.py)
@@ -56,7 +56,7 @@ Este repositorio consta de diversos archivos, así cada archivo es un tema o con
 ### Backend con Python desde cero y FastAPI
 
 00. [Sugerencias de codificado](https://github.com/manuel101284/AprendizajePython/blob/main/Backend/type_hints.py)
-
+01. [Instalación de FastAPI](https://github.com/manuel101284/AprendizajePython/blob/main/Backend/FastAPI/main.py)
 
 
 ##
