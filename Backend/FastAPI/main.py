@@ -1,6 +1,7 @@
 # Importamos el módulo fastapi que recien instalamos
 
 from fastapi import FastAPI
+from routers import products, users
 
 # En una variable vamos a guardar la clase que usaremos
 app = FastAPI()
@@ -8,6 +9,11 @@ app = FastAPI()
 """
 Para abrir el servidor, tecleamos: uvicorn main:app --reload
 """
+
+# Routers
+app.include_router(products.router)
+app.include_router(users.router)
+
 
 # Declaramos la instacia para hacer una petición al servidor, con get, y una función asincrona
 @app.get("/")
