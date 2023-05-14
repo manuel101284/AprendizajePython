@@ -60,6 +60,7 @@ Este repositorio consta de diversos archivos, así cada archivo es un tema o con
 02. [Petición Get](https://github.com/manuel101284/AprendizajePython/blob/main/Backend/FastAPI/users.py)
 03. [Routers](https://github.com/manuel101284/AprendizajePython/blob/main/Backend/FastAPI/main.py)
 04. [Autenticación](https://github.com/manuel101284/AprendizajePython/blob/main/Backend/FastAPI/routers/basic_auth_users.py)
+05. [Autenticación con JWT](https://github.com/manuel101284/AprendizajePython/blob/main/Backend/FastAPI/routers/jwt_auth_users.py)
 
 
 ##
